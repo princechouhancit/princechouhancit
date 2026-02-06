@@ -1,4 +1,4 @@
-# Hi there, I'm Prince chouhan 👋
+# Hi there, I'm MAnsi Sharma 👋
 ### Building dynamic web experiences with JavaScript, TypeScript, and React. Crafting pixel-perfect UIs with HTML5, CSS3, and TailwindCSS. Animating with GreenSock and Three.js. Bridging design and code with Figma. Powering data with Python, Pandas, and NumPy. Deploying seamlessly on Netlify and Vercel. From React to React Native—code once, innovate everywhere.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=princechouhancit&color=0891b2&style=flat)
